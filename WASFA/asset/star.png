@@ -1,0 +1,62 @@
+/* p::first-letter{
+    color: blue;
+    font-size: 20px;
+    font-weight: 800;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p::first-line{
+    color: blueviolet;
+    font-weight: 800;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p::before{
+    content: "TEST";
+}
+p::after{
+    content: "HEllo World";
+    color: brown;
+}
+li::marker{
+    color: blueviolet;
+
+}
+ol li::marker{
+    color: chartreuse;
+}
+
+p::selection{
+    color: brown;
+    background-color: blueviolet;
+    font-size: 40px;
+} */
+/* .para:hover{
+    color: brown;
+}
+a:visited {
+    color: peru;} */
+
+/* a:focus{
+    color: blueviolet;
+} */
+/* a:link {
+    color: deeppink;
+    text-decoration: none;}
+a:hover{
+    color: aqua;
+} */
+/* img{
+    width: 100px;
+    height: 100px;
+}
+img[alt$="car2"]{
+    border: 3px solid red;
+}
+input[type="password"]{
+    border: 2px solid goldenrod;
+}
+input[placeholder="Enter your password"]{
+    border: 3px solid slateblue;
+    color: aquamarine;
+} */
+
+/* .container1:fir
